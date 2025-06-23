@@ -18,7 +18,7 @@ The repository includes:
 - A full Jupyter Notebook with stock analysis.
 - Two standalone Python scripts for separate company insights.
 - Saved plot images for visualization.
-- Clean code using Pandas and Matplotlib.
+- Clean code using yFinance and Matplotlib.
 
 ---
 
@@ -43,11 +43,9 @@ The repository includes:
 
 ---
 
----
-
 ## 📸 Sample Visualizations
 
-## 📈 Stock Analysis Results
+### 📈 Stock Analysis Results
 
 ### Apple Inc. (AAPL) Performance
 <div align="center">
