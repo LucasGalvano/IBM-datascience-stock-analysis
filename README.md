@@ -77,9 +77,12 @@ The repository includes:
    ```bash
    pip install pandas matplotlib yfinance requests
 
-👨‍💻 Author
-Lucas Galvano de Paula
-Data Science Student | Centro Universitário FEI
+---
 
-📝 License
+## 👨‍💻 Author
+Lucas Galvano de Paula
+
+---
+
+## 📝 License
 This project is part of the IBM Data Science Professional Certificate and is intended for educational purposes only.
